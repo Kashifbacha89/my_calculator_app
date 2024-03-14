@@ -61,8 +61,6 @@ class _HistoryViewState extends State<HistoryView> {
                           },
                           style: ElevatedButton.styleFrom(
                             backgroundColor: Colors.red.withOpacity(0.9),
-                            //     backgroundColor:
-                            //         MaterialStatePropertyAll(Colors.blue[300])),
                           ),
                           child: const Text(
                             'Clear History',

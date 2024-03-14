@@ -88,11 +88,6 @@ class _HomeViewState extends State<HomeView> {
                       return true;
                     },
                   ),
-                  // const Icon(
-                  //     Icons.calculate_outlined,
-                  //     color: Colors.white,
-                  //     size: 35,
-                  //   ),
 
                   SizedBox(
                     width: MediaQuery.sizeOf(context).width * 0.25,
